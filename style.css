@@ -16,12 +16,12 @@ body {
 }	
 
 canvas {
-	border: 5px solid rgb(138, 135, 135);
+	border: 5px solid rgb(82, 48, 48);
 }
 
 .toolbox {
-	background-color: rgb(138, 135, 135);
-	border: 1px solid rgb(138, 135, 135);
+	background-color: rgb(82, 48, 48);
+	border: 1px solid rgb(82, 48, 48);
 	display: flex;
 	width: 804px;
 	padding: 1rem;
